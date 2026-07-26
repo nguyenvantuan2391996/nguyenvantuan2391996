@@ -5,12 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=nguyenvantuan2391996&label=Profile%20views&color=0e75b6&style=flat" alt="nguyenvantuan2391996" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nguyenvantuan2391996" alt="nguyenvantuan2391996" />
-  </a>
-</p>
-
 - 🌱 I'm currently learning **Devops**
 - 👨‍💻 All of my projects are available at [github.com/nguyenvantuan2391996](https://github.com/nguyenvantuan2391996/)
 - 📝 I regularly write articles on [tuannguyenhust.hashnode.dev](https://tuannguyenhust.hashnode.dev/)
@@ -43,11 +37,11 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenvantuan2391996&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nguyenvantuan2391996&show_icons=true&locale=en" alt="GitHub Stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nguyenvantuan2391996/nguyenvantuan2391996/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nguyenvantuan2391996/nguyenvantuan2391996/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nguyenvantuan2391996/nguyenvantuan2391996/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 <p align="center">
