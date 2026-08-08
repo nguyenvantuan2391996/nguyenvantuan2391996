@@ -44,21 +44,6 @@
 
 ### Open Source Contributions
 
-| Project | Pull Request | Summary |
-| --- | --- | --- |
-| [go-ozzo/ozzo-validation](https://github.com/go-ozzo/ozzo-validation) ⭐ 4.1k+ | [#218](https://github.com/go-ozzo/ozzo-validation/pull/218) | Closed test coverage gaps in `is`, `absent`/`minmax`/`not_nil`/`required`, and `struct_cache` |
-| [go-ozzo/ozzo-validation](https://github.com/go-ozzo/ozzo-validation) ⭐ 4.1k+ | [#198](https://github.com/go-ozzo/ozzo-validation/pull/198) | Added Origin validation |
-
-### GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenvantuan2391996" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nguyenvantuan2391996/nguyenvantuan2391996/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nguyenvantuan2391996/nguyenvantuan2391996/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nguyenvantuan2391996/nguyenvantuan2391996/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
+| Project | Description |
+| --- | --- |
+| [go-ozzo/ozzo-validation](https://github.com/go-ozzo/ozzo-validation) ⭐ 4.1k+ | An idiomatic Go validation package supporting configurable and extensible validation rules |
