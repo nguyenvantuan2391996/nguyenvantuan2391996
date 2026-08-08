@@ -15,16 +15,7 @@
 
 <h3 align="center">Open Source Contributions</h3>
 <p align="center">
-  Merged pull requests to <a href="https://github.com/go-ozzo/ozzo-validation" target="_blank"><b>go-ozzo/ozzo-validation</b></a> ⭐ 4.1k+ — an idiomatic Go validation package
-</p>
-<p align="center">
-  <a href="https://github.com/go-ozzo/ozzo-validation/pull/218" target="_blank">
-    <img src="https://img.shields.io/badge/PR%20%23218-test%3A%20close%20coverage%20gaps-6f42c1?logo=github" alt="PR #218" />
-  </a>
-  <br/>
-  <a href="https://github.com/go-ozzo/ozzo-validation/pull/198" target="_blank">
-    <img src="https://img.shields.io/badge/PR%20%23198-Add%20Origin%20validation-6f42c1?logo=github" alt="PR #198" />
-  </a>
+  <a href="https://github.com/go-ozzo/ozzo-validation" target="_blank"><b>go-ozzo/ozzo-validation</b></a> ⭐ 4.1k+ — an idiomatic Go validation package
 </p>
 
 <h3 align="center">Connect with me</h3>
@@ -56,8 +47,4 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nguyenvantuan2391996/nguyenvantuan2391996/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nguyenvantuan2391996/nguyenvantuan2391996/output/github-contribution-grid-snake.svg" />
   </picture>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenvantuan2391996" alt="GitHub Streak" />
 </p>
