@@ -46,6 +46,7 @@
 
 | Project | Description |
 | --- | --- |
+| [samber/lo](https://github.com/samber/lo) ⭐ 21.4k+ | A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...) |
 | [go-ozzo/ozzo-validation](https://github.com/go-ozzo/ozzo-validation) ⭐ 4.1k+ | An idiomatic Go validation package supporting configurable and extensible validation rules |
 
 <p align="center">
