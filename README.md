@@ -44,11 +44,28 @@
 
 ### Open Source Contributions
 
-| Project | Description |
-| --- | --- |
-| [samber/lo](https://github.com/samber/lo) ⭐ 21.4k+ | A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...) |
-| [go-ozzo/ozzo-validation](https://github.com/go-ozzo/ozzo-validation) ⭐ 4.1k+ | An idiomatic Go validation package supporting configurable and extensible validation rules |
-| [ClickHouse/clickhouse-go](https://github.com/ClickHouse/clickhouse-go) ⭐ 3.3k+ | Golang driver for ClickHouse |
+<table>
+  <thead>
+    <tr>
+      <th width="260">Project</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/samber/lo">samber/lo</a> ⭐ 21.4k+</td>
+      <td>A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/go-ozzo/ozzo-validation">go-ozzo/ozzo-validation</a> ⭐ 4.1k+</td>
+      <td>An idiomatic Go validation package supporting configurable and extensible validation rules</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ClickHouse/clickhouse-go">ClickHouse/clickhouse-go</a> ⭐ 3.3k+</td>
+      <td>Golang driver for ClickHouse</td>
+    </tr>
+  </tbody>
+</table>
 
 <p align="center">
   <picture>
