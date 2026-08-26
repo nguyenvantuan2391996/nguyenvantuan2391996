@@ -57,6 +57,10 @@
       <td>A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)</td>
     </tr>
     <tr>
+      <td><a href="https://github.com/go-playground/validator">go-playground/validator</a> ⭐ 20.1k+</td>
+      <td>Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/go-ozzo/ozzo-validation">go-ozzo/ozzo-validation</a> ⭐ 4.1k+</td>
       <td>An idiomatic Go validation package supporting configurable and extensible validation rules</td>
     </tr>
